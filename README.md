@@ -35,6 +35,9 @@ All servers need to be running at the same time in order to serve the client(s).
 
 
 The conversations and user data are stored in text and  binaryfiles.
+See the [report](./REPORT.pdf) for more details.
+
+
 ## References
 
 - Book : Hands-on Network Programming with C, Lewis Van Winkle, www.packt.com
