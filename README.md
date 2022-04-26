@@ -34,7 +34,7 @@ All servers need to be running at the same time in order to serve the client(s).
 - [header.h](./SERVERS/header.c) - contains necessary headers and definitions used in project.
 
 
-The conversations and user data are stored in text and  binarie files.
+The conversations and user data are stored in text and  binaryfiles.
 ## References
 
 - Book : Hands-on Network Programming with C, Lewis Van Winkle, www.packt.com
